@@ -1,0 +1,30 @@
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\bin\Debug\net6.0\CatalogoEmpresas.AccesoADatos.deps.json
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\bin\Debug\net6.0\CatalogoEmpresas.AccesoADatos.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\bin\Debug\net6.0\CatalogoEmpresas.AccesoADatos.pdb
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.pdb
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\refint\CatalogoEmpresas.AccesoADatos.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.pdb
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\ref\CatalogoEmpresas.AccesoADatos.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\bin\Debug\net6.0\CatalogoEmpresas.AccesoADatos.deps.json
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\bin\Debug\net6.0\CatalogoEmpresas.AccesoADatos.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\bin\Debug\net6.0\CatalogoEmpresas.AccesoADatos.pdb
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.pdb
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.AssemblyInfo.cs
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.csproj.CopyComplete
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\refint\CatalogoEmpresas.AccesoADatos.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\CatalogoEmpresas.AccesoADatos.pdb
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.AccesoADatos\obj\Debug\net6.0\ref\CatalogoEmpresas.AccesoADatos.dll

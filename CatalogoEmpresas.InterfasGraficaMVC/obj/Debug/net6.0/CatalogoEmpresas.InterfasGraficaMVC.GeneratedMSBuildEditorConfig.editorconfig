@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CatalogoEmpresas.InterfasGraficaMVC
+build_property.RootNamespace = CatalogoEmpresas.InterfasGraficaMVC
+build_property.ProjectDir = C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.InterfasGraficaMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.InterfasGraficaMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Contacto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Contacto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Contacto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Contacto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Contacto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Empresa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Rol/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Rol/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Rol/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Rol/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Rol/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Usuario/CambiarPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYW1iaWFyUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Usuario/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dfer4/Desktop/VMC/CatalogoEmpresas/CatalogoEmpresas.InterfasGraficaMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-02g52102ui

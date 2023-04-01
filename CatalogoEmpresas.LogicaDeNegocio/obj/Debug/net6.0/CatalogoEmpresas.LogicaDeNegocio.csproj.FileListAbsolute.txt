@@ -1,0 +1,34 @@
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.deps.json
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.pdb
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.AccesoADatos.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.AccesoADatos.pdb
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.pdb
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\refint\CatalogoEmpresas.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.pdb
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\ref\CatalogoEmpresas.LogicaDeNegocio.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.deps.json
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.pdb
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.AccesoADatos.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.AccesoADatos.pdb
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.pdb
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\refint\CatalogoEmpresas.LogicaDeNegocio.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.LogicaDeNegocio.pdb
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.LogicaDeNegocio\obj\Debug\net6.0\ref\CatalogoEmpresas.LogicaDeNegocio.dll

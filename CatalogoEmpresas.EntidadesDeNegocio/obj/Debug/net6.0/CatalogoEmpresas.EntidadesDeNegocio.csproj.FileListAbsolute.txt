@@ -1,0 +1,24 @@
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.deps.json
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.pdb
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\refint\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.pdb
+C:\Users\MINEDUCYT\Desktop\creacion de base de datos\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\ref\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.deps.json
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\bin\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.pdb
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\refint\CatalogoEmpresas.EntidadesDeNegocio.dll
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\CatalogoEmpresas.EntidadesDeNegocio.pdb
+C:\Users\dfer4\Desktop\VMC\CatalogoEmpresas\CatalogoEmpresas.EntidadesDeNegocio\obj\Debug\net6.0\ref\CatalogoEmpresas.EntidadesDeNegocio.dll
